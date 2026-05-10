@@ -1,2 +1,3 @@
 Sinais do ar de casa capturados com sucesso.
 Testes de emissão IR realizados no ar de casa com os arrays capturados.
+Testes em casa concluídos, sistema operando perfeitamente.
