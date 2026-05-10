@@ -1,0 +1,1 @@
+Sinais IR do ar-condicionado Carrier (sala da faculdade) mapeados no formato RAW e COOLIX.
