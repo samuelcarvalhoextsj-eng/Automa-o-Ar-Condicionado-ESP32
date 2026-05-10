@@ -1,1 +1,2 @@
 Sinais IR do ar-condicionado Carrier (sala da faculdade) mapeados no formato RAW e COOLIX.
+Integração final: ESP32 + MQTT (HiveMQ) + Sensores + App React. Testes na sala concluídos com sucesso!
